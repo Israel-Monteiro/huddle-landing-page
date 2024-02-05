@@ -1,15 +1,15 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0){:target="_blank"} . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0){:target="\_blank"} . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-   - [The challenge](#the-challenge)
-   - [Screenshot](#screenshot)
-   - [Links](#links)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
-   - [Built with](#built-with)
+  - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -24,24 +24,28 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop resolution
+
 ![](./images-resolution/huddle-desktop.gif)
 
 #### Mobile resolution
+
 ![](./images-resolution/huddle-mobile.gif)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://israel-monteiro.github.io/huddle-landing-page/)
+- Solution URL: [Frontend Mentor solution page](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-dkEverTnPU)
+- Live Site URL: [live site URL](https://israel-monteiro.github.io/huddle-landing-page/)
+
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
--Flexbox
+  -Flexbox
 - Mobile-first workflow
 
 ## Author
 
 - GitHub - [Israel Monteiro](https://github.com/israel-monteiro)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Israel-Monteiro](https://www.frontendmentor.io/profile/Israel-Monteiro)
