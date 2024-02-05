@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0){:target="_blank"} . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -24,18 +24,14 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop resolution
-![](./images-resolution/huddle-landing-page-challenge-resolution-desktop.png)
 ![](./images-resolution/huddle-desktop.gif)
 
 #### Mobile resolution
-![](./images-resolution/huddle-landing-page-challenge-resolution-mobile.png)
 ![](./images-resolution/huddle-mobile.gif)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Add solution URL here](https://israel-monteiro.github.io/huddle-landing-page/)
 ## My process
 
 ### Built with
@@ -43,10 +39,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 -Flexbox
--CSS Grid
 - Mobile-first workflow
 
-##Author
+## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- GitHub - [Israel Monteiro](https://github.com/israel-monteiro)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
