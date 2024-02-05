@@ -1,0 +1,143 @@
+html {
+    font-size: 62.5%;
+    /*Após essa declaração o tamanho da fonte virou 10px*/
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background: var(--primary-color) url('../images/bg-desktop.svg') top center no-repeat;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 55px 73px ;
+}
+
+.header img {
+    width: 220px;
+}
+
+/* ------------------------- */
+.container .community{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 85px;
+}
+
+.container .community .information{
+    max-width: 550px;
+    padding: 45px 20px;
+}
+
+.container .community .information h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 3.8rem;
+}
+
+.container .community .information p {
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    margin-top: 25px;
+}
+
+.container .community .information .register {
+    background-color: #fff;
+    display: inline-block;
+    margin-top: 25px;
+    padding: 15px 65px;
+    border-radius: 50px;
+    font-size: 1.9rem;
+    color: var(--primary-color);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.474);;
+}
+
+.container .community .information .register:hover {
+    color: #fff;
+    background-color: var(--secondary-color);
+}
+
+/* ------------------------- */
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin: 25px 0px;
+}
+
+.footer .social .icon-social{
+    font-size: 1.8rem;
+    margin: 0 6px;
+    padding: 7px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    transition: color 0.3s;
+}
+
+.footer .social .icon-social i{ 
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    transition: color 0.1s;
+}
+
+.footer .social .icon-social:hover{ 
+    border-color: var(--secondary-color);
+}
+.footer .social .icon-social:hover i{ 
+    color: var(--secondary-color);
+}
+
+/* ------------------------- */
+@media (max-width: 1125px) {
+    body {
+        background: var(--primary-color) url('../images/bg-mobile.svg') top center no-repeat;
+        max-width: 375px;
+        margin: 0 auto;
+        padding: 35px;
+    }
+    .header img {
+        width: 120px;
+    }
+    
+    .container .community{
+        display: flex;
+        flex-direction: column;
+        margin-top: 55px;
+        text-align: center;
+    }
+
+    .container .community .information{
+        padding: 60px 5px;
+    }
+
+    .container .community .information h1{
+        font-size: 2.4rem;
+    }
+
+    .container .community .information p {
+        font-size: 1.6rem;
+        margin-top: 15px;
+    }
+
+    .container .community .information .register {
+        padding: 10px 75px;
+        font-size: 1.4rem;
+    }
+
+    .footer {
+        justify-content: center;
+        margin: 7px 0 0 0;
+    }
+    
+    .footer .social .icon-social{
+        font-size: 1.2rem;
+        padding: 5px;
+    }
+    
+    .footer .social .icon-social i{ 
+        width: 15px;
+        height: 15px;
+    }
+
+
+
+}
